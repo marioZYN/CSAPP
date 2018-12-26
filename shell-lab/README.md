@@ -1,1 +1,5 @@
-# Shell Lab
+## Shell Lab
+
+Task:
+
+* Implement a tiny shell 
